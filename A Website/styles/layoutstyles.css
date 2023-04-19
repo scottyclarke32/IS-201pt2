@@ -1,0 +1,36 @@
+body {
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.common {
+    background-color: gainsboro;
+    border: 2px solid white;
+
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody {
+    top: 150
+px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 5px;
+    color: #999;
+    text-align: center;
+    padding-top: 15px;
+}
